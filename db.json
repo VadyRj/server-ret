@@ -2,207 +2,107 @@
     "menu": [
         {
             "id": 1,
-            "name": "one-1",
+            "name": "bread-whole-grain.jpg",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
+            "group": "breadProducts",
             "sum": 0
         },
         {
             "id": 2,
-            "name": "one-2",
+            "name": "bread-onion.jpg",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "group": "breadProducts",
             "sum": 0
         },
         {
             "id": 3,
-            "name": "one-3",
+            "name": "bread-onion-garlic.jpg",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "group": "breadProducts",
             "sum": 0
         },
         {
             "id": 4,
-            "name": "one-4",
+            "name": "bun-twisted.jpg",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "group": "breadProducts",
             "sum": 0
         },
         {
             "id": 5,
-            "name": "one-5",
+            "name": "bread-onion-carrot.jpg",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "group": "breadProducts",
             "sum": 0
         },
         {
             "id": 6,
-            "name": "two-1",
+            "name": "baguette-fitness-cereals.jpg",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "group": "breadProducts",
             "sum": 0
         },
         {
             "id": 7,
-            "name": "two-2",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "bun-cinnamon.jpg",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "bakeryProducts",
             "sum": 0
         },
         {
             "id": 8,
-            "name": "two-3",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "kulich.jpg",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "bakeryProducts",
             "sum": 0
         },
         {
             "id": 9,
-            "name": "two-4",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "pie-berry.jpg",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "dessertsProducts",
             "sum": 0
         },
         {
             "id": 10,
-            "name": "two-5",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "pizza.jpg",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "newProducts",
             "sum": 0
         },
         {
             "id": 11,
-            "name": "three-1",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
+            "name": "easter-eggs.jpg",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "newProducts",
             "sum": 0
         },
         {
             "id": 12,
-            "name": "three-2",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "lemon-cupcake.jpg",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "dessertsProducts",
             "sum": 0
         },
         {
             "id": 13,
-            "name": "three-3",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "buns-apple.jpg",
+            "structure": "Мука, яйцо, молоко, соль, сахар, яблоко",
+            "group": "bakeryProducts",
             "sum": 0
         },
         {
             "id": 14,
-            "name": "three-4",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "buns-cottage-cheese.jpg",
+            "structure": "Мука, яйцо, молоко, соль, сахар, творог",
+            "group": "bakeryProducts",
             "sum": 0
         },
         {
             "id": 15,
-            "name": "three-5",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 16,
-            "name": "four-1",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "sum": 0
-        },
-        {
-            "id": 17,
-            "name": "four-2",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 18,
-            "name": "four-3",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 19,
-            "name": "four-4",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 20,
-            "name": "four-5",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 21,
-            "name": "six-1",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "sum": 0
-        },
-        {
-            "id": 22,
-            "name": "six-2",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 23,
-            "name": "six-3",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 24,
-            "name": "six-4",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 25,
-            "name": "six-5",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 26,
-            "name": "seven-1",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "sum": 0
-        },
-        {
-            "id": 27,
-            "name": "seven-2",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 28,
-            "name": "seven-3",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 29,
-            "name": "seven-4",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 30,
-            "name": "seven-5",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "pies-cabbage.jpg",
+            "structure": "Мука, яйцо, молоко, соль, сахар, творог",
+            "group": "bakeryProducts",
             "sum": 0
         }
     ]
